@@ -1,8 +1,8 @@
 <h1 align="center">Blooket Hack</h1>
 <h3 align="center">One of the best Blooket hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
 
-#### Made by rxzyx (rzx). This is purley for education purposes.
+
+#### Made by yareusomad. This is purley for education purposes.
 - 📫 Have a problem? **Just open an issue and I will do my best to respond.**
 
 ## How To Use:
