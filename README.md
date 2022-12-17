@@ -4,7 +4,7 @@ simply select a hack folder and copy it then on your computer left click and cli
 
 
 
-#0969DA[Tutorial] (https://www.youtube.com/watch?v=0pJW6SOabk0)
+[Tutorial] (https://www.youtube.com/watch?v=0pJW6SOabk0)
 
 
 
