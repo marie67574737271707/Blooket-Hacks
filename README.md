@@ -1,7 +1,6 @@
 # Blooket-Hacks
 The Best Blooket Hack There is
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Blooket-Cheats/Blooket-Hacks">
