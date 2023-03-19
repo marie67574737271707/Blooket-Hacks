@@ -1,8 +1,11 @@
 # Blooket-Hacks
 The Best Blooket Hack There is
 
-<a href="https://github.com/Blooket-Cheats/Blooket-Hacks">
+<div align="center">
+  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks">
 	 <img src="images/animated_icon.gif" alt="Logo" width="200" height="200" />
+  </a>
+  
 
 simply select a hack folder and copy it then on your computer left click and click on inspect then go to console and paste the hack in then 
 refresh your browser.
