@@ -1,16 +1,6 @@
 # Blooket-Hacks
 The Best Blooket Hack There is
 
-<a name="readme-top"></a>
-<!-- ANALYTICS -->
-<img src="https://shorturl.at/lmO28" width="0%" height="0%" />
-<img src="images/head.png" width="100%" height="20%" />
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Blooket-Cheats/Blooket-Hacks">
-	 <img src="images/animated_icon.gif" alt="Logo" width="200" height="200" />
-  </a>
 
 simply select a hack folder and copy it then on your computer left click and click on inspect then go to console and paste the hack in then 
 refresh your browser.
