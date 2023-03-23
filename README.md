@@ -1,4 +1,4 @@
-# Blooket-Hacks
+## Blooket-Hacks
 The Best Blooket Hack There is
 
 
@@ -7,7 +7,7 @@ refresh your browser.
 
 
 
-[Tutorial](https://www.youtube.com/watch?v=0pJW6SOabk0)
+# [Tutorial](https://www.youtube.com/watch?v=0pJW6SOabk0)
 
 
 
