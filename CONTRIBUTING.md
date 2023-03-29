@@ -1,1 +1,1 @@
-PLEASE DO NOT CONTRIBUTE TO THIS HACK 
+please start contributing
