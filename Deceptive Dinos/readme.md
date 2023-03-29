@@ -1,6 +1,6 @@
 # Deceptive Dino Cheats
 
-## [Auto Choose](autoChoose.js)
+## [Auto Choose](autochoose.js)
 Automatically choose the best fossil when excavating
 ## [Rock ESP](rockESP.js)
 Shows what each rock will give you
@@ -8,8 +8,8 @@ Shows what each rock will give you
 ## [Set Fossils](setFossils.js)
 Sets the amount of fossils you have
 
-## [Set Multiplier](setMultiplier.js)
+## [Set Multiplier](setmultiplier.js)
 Sets fossil multiplier
 
-## [Stop Cheating](stopCheating.js)
+## [Stop Cheating](stopcheating.js)
 Undoes cheating so that you can't be caught
