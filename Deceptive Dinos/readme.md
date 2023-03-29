@@ -5,7 +5,7 @@ Automatically choose the best fossil when excavating
 ## [Rock ESP](rockESP.js)
 Shows what each rock will give you
 
-## [Set Fossils](setFossils.js)
+## [Set Fossils](setfossils.js)
 Sets the amount of fossils you have
 
 ## [Set Multiplier](setmultiplier.js)
