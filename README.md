@@ -1,8 +1,7 @@
 ## Blooket-Hacks
 The Best Blooket Hack There is
 
-### <details><summary><h3>How to run?</h3></summary>
-
+<details><summary><h3>How to run?</h3></summary>
 simply select a hack folder and copy it then on your computer left click and click on inspect then go to console and paste the hack in then 
 refresh your browser.
 </details>
