@@ -27,4 +27,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
 Star the project or check out my other hacks 
 
-Please star this project
+Please star this project.
