@@ -1,3 +1,6 @@
+###[New Hacks](https://github.com/hackthegamezjj/BLOOKET)
+
+
 ## Blooket-Hacks
 The Best Blooket Hack There is
 
