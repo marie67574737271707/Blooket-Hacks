@@ -1,4 +1,4 @@
-                                    # [New Hacks](https://github.com/hackthegamezjj/BLOOKET)
+ # [New Hacks](https://github.com/hackthegamezjj/BLOOKET)
 
 
 ## Blooket-Hacks
